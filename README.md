@@ -3,6 +3,7 @@ Empresa mãe
 
 Vamo la
 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 colocquei imagens
 =======
@@ -28,3 +29,6 @@ A: o que que é o desc no CSS
 Vou tirar o desc
 
 Podem mexer no css
+=======
+testando se isso funciona
+>>>>>>> Stashed changes
