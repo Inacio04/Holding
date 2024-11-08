@@ -21,10 +21,12 @@ body{
 }
 
 .construcao{
+    text-align: center;
     border: 6px solid aquamarine;
     background-color: white;
 }
 img{
+
     width: 100px;
     height: 100px;
 }
