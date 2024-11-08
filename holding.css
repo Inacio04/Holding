@@ -21,17 +21,14 @@ body{
 }
 
 .construcao{
+    text-align: center;
     border: 6px solid aquamarine;
     background-color: white;
-    text-align: center;
-    width: 100%;
-    
 }
+img{
 
-a:link{
-
-    text-decoration: none;
+    width: 100px;
+    height: 100px;
 }
-
 
 
