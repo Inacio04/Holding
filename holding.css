@@ -24,6 +24,8 @@ body{
     text-align: center;
     border: 6px solid aquamarine;
     background-color: white;
+    border-radius: 30px;
+    margin-top: 1%;
 }
 img{
 
@@ -31,4 +33,10 @@ img{
     height: 100px;
 }
 
-
+.rodape{
+    margin-top: 2%;
+    text-align: center;
+    border: 6px solid aquamarine;
+    background-color: white;
+    border-radius: 30px;
+}
