@@ -2,5 +2,11 @@ body{
     background-color: antiquewhite;
 }
 
+.titulo{
+    text-align: center;
+    color: black;
+    border: 10px solid lightblue;
+}
+
 
 
