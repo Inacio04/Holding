@@ -11,5 +11,18 @@ body{
     border-radius: 30px;
 }
 
+.desc{
+    text-align: center;
+    color: black;
+    border: 6px solid aquamarine;
+    background-color: white;
+    font-size: 3vh;
+    border-radius: 30px;
+}
+
+.construcao{
+    border: 6px solid aquamarine;
+    background-color: white;
+}
 
 
