@@ -31,4 +31,8 @@ img{
     height: 100px;
 }
 
-
+.rodape{
+    text-align: center;
+    border: 6px solid aquamarine;
+    background-color: white;
+}
