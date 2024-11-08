@@ -25,5 +25,6 @@ METE UNS WIDTH % NESSAS BORDA, Q TA ESTRANHO NO MOBILE
 
 A: o que que é o desc no CSS
 
-agora é so aplicar a classe de construçao nos outros
+Vou tirar o desc
 
+Podem mexer no css
