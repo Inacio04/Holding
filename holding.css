@@ -5,7 +5,8 @@ body{
 .titulo{
     text-align: center;
     color: black;
-    border: 10px solid lightblue;
+    border: 10px solid aquamarine;
+    background-color: lightblue;
 }
 
 
