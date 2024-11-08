@@ -5,8 +5,10 @@ body{
 .titulo{
     text-align: center;
     color: black;
-    border: 10px solid aquamarine;
-    background-color: lightblue;
+    border: 6px solid aquamarine;
+    background-color: white;
+    font-size: 5vh;
+    border-radius: 30px;
 }
 
 
