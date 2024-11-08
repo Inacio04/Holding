@@ -23,8 +23,10 @@ body{
 .construcao{
     border: 6px solid aquamarine;
     background-color: white;
-    text-align: center;
-    
+}
+img{
+    width: 80%;
+    height: 80%;
 }
 
 
